@@ -1,4 +1,4 @@
-# Project README
+# App 18 Restaurant Menu
 ## Project Description
 This project contains Django views and models for a menu application. It provides functionality to display a menu list and view individual menu item details.
 
